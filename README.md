@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ferrel Anthoni
-- 👀 Web Development is my passion
+- 👀 Web Development / Testing is my passion
 - 🌱 I’m currently enrolling in Computer Systems Technology @ BCIT, Burnaby, Canada
 - 📫 How to reach me: connect with me thru LinkedIn! https://linkedin.com/in/ferrelanthoni
