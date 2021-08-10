@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ferrel Anthoni
-- 👀 I’m interested in back-end development, 
-- 🌱 I’m currently learning Computer Systems Technology @ BCIT, Burnaby, Canada
-- 📫 How to reach me: connect with me thru LinkedIn!
+- 👀 Web Development is my passion
+- 🌱 I’m currently enrolling in Computer Systems Technology @ BCIT, Burnaby, Canada
+- 📫 How to reach me: connect with me thru LinkedIn! https://linkedin.com/in/ferrelanthoni
