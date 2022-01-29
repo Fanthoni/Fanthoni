@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Ferrel Anthoni
-- 👀 Web Development / Testing is my passion
-- 🌱 I’m currently enrolling in Computer Systems Technology @ BCIT, Burnaby, Canada
-- 📫 How to reach me: connect with me thru LinkedIn! https://linkedin.com/in/ferrelanthoni
+### Hi I'm Ferrel 🙋‍♂️
+
+I am a current student at British Columbia Institute of Technology pursuing in Computer Science. My passion has been working on the full-stack development and creating software applications that help the public accomplish their goal easily easily and conveniently.
+
+
+🔤 Languages: Java, Python, TypeScript, JavaScript, C#
+
+💼 Passionate in: React, NodeJS
