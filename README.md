@@ -1,8 +1,10 @@
 ### Hi I'm Ferrel 🙋‍♂️
 
-I am a current student at British Columbia Institute of Technology pursuing in Computer Science. My passion has been working on the full-stack development and creating software applications that help the public accomplish their goal easily easily and conveniently.
+I am a current student at BCIT, Vancouver - pursuing in Computer Science. My passion have been working on full-stack development and creating software applications that help people accomplish their goal with ease and convenience.
 
 
-🔤 Languages: Java, Python, TypeScript, JavaScript, C#
+🔤 I speak: Java, Python, TypeScript, JavaScript, C#, C
 
-💼 Passionate in: React, NodeJS
+💼 Passion: React, NodeJS
+
+📚 Learning: Flutter
