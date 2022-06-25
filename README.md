@@ -6,5 +6,3 @@ I am a current student at BCIT, Vancouver - pursuing in Computer Science. My pas
 🔤 I speak: Java, Python, TypeScript, JavaScript, C#, C
 
 💼 Passion: React, NodeJS
-
-📚 Learning: Flutter
